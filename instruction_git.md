@@ -116,4 +116,7 @@ git branch <New_branches>. Например так:
 
     git log --all
 
+## Атрибут graph
+
+
 
