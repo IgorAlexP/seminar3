@@ -68,3 +68,6 @@ git branch <New_branches>. Например так:
     
     git branch branches
 
+
+## Вывести список созданных веток
+
