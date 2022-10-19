@@ -110,3 +110,4 @@ git branch <New_branches>. Например так:
         git branch -d <имя удаляемой ветки>
 
         
+## Команда git log
